@@ -31,3 +31,5 @@ Then requesting the first userid on the /user endpoint gives us the flag
 
 ![](./screenshots/solvePage.png)
 
+#### NOTE
+The screenshot of the solve page with the flag doesn't match with some of the other screenshots because I didn't take enough screenshots when I was actually solving the challenge because of the brevity of it. 
