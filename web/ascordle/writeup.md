@@ -28,3 +28,5 @@ I thought I must have missed the length validation. Reviewing the source code ag
 One funny thing I noticed on my review of the source code is that the code accounts for it's own vulnerability in the answer generation. Obviously the developer of the challenge couldn't just have it throw a sql error sometimes. Still I found it a little funny.
 
 ![](./screenshots/literallyAccountsForOwnVulnerability.png)
+
+
